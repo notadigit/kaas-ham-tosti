@@ -1,0 +1,22 @@
+A) gebruik de github desktop app om:
+
+- een clone (lokale kopie) te maken van notadigit/kaas-ham-tosti
+
+- een regel toe te voegen aan het bestand "toevoegingen.txt"
+
+- een eigen bestand (git add) toe te voegen
+
+- te zorgen dat jouw wijzigingen in het repository terecht komen.
+
+
+B) ga naar github en fork notadigit/kaas-ham-tosti, gebruik vervolgens de github desktop app om:
+
+- een clone (lokale kopie) te maken van <JOUW account>/kaas-ham-tosti
+
+- een regel in jouw fork toe te voegen aan het bestand "toevoegingen.txt"
+
+- in jouw fork een eigen bestand (git add) toe te voegen
+
+- te zorgen dat jouw wijzigingen in JOUW repository terecht komen.
+
+
